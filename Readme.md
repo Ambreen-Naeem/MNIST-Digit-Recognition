@@ -102,26 +102,26 @@ Expected Accuracy:
 
 ## Confusion Matrix
 
-![Confusion Matrix](screenshots/confusion-matrix.png)
+![Confusion Matrix](Screenshots/confusion-matrix.png)
 
 ---
 
 ## Streamlit Home Page
 
-![Home Page](screenshots/Home-Page.png)
+![Home Page](Screenshots/Home-Page.png)
 
 ---
 
 ## Uploaded Image Prediction
 
-![Prediction Result](screenshots/Prediction-Result1.png)
+![Prediction Result](Screenshots/Prediction-Result1.png)
 
 ---
 
-![Prediction Result](screenshots/Prediction-Result3.png)
+![Prediction Result](Screenshots/Prediction-Result3.png)
 
 ---
-![Prediction Result](screenshots/Prediction-Result2.png)
+![Prediction Result](Screenshots/Prediction-Result2.png)
 
 ---
 ## Dataset
@@ -161,7 +161,11 @@ This will:
 * Save the trained model as `mnist_model.pkl`
 
 ---
+## Note:
 
+The trained model (mnist_model.pkl) is not included due to its size. Run mnist_digit_recognition.py to train the model and generate the file before starting the Streamlit app.
+
+---
 ## Running the Streamlit Application
 
 Run:
