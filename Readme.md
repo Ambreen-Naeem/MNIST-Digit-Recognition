@@ -96,7 +96,7 @@ Expected Accuracy:
 
 ## Sample Handwritten Digit
 
-![Sample Digit](Sample Images/digit_sample.png)
+![Sample Digit](Sample%20Images/digit_sample.png)
 
 ---
 
